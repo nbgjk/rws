@@ -7,4 +7,4 @@ description: >-
   discharge. Specialists in water and environment management.
 image: /img/adobe_post_20191030_190832.png
 ---
-jht
+Pretreatment, process water/liquid treatment, waste water treatment, water recycle and product recovery using various physico-chemical processes for settling, clarification, filtration, and disinfection, membrane and technology.
