@@ -10,13 +10,9 @@ values:
     text: >
       Sewage treatment is the process of removing contaminants from municipal wastewater, containing mainly household sewage plus some industrial wastewater. Physical, chemical, and biological processes are used to remove contaminants and produce treated wastewater that is safe enough for release into the environment. 
     imageUrl: "/img/prod1.jpg"
-  - heading: "Sustainable farming"
+  - heading: "Water Treatment Equipments"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
+      We also provide Water Treatment Equipments which is really helpful and most easily to install and use.
+    imageUrl: "/img/water-treatment-equipment-500x500.jpg"
 
 ---
