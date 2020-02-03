@@ -3,7 +3,7 @@ title: "Contact Us"
 
 contact_entries:
   - heading: Location
-    text: "Directly Mail: sanjitkumarsen0@gmail.com"
+    text: "Your Address"
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
